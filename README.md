@@ -12,7 +12,7 @@ Submit 1 PR (Pull Request) per challenge.
 - [1.cpp](./challenges/1.cpp)
 - [2.py](./challenges/2.py)
 - [3.js](./challenges/3.js)
-- [more to come](/issues/1)...
+- [more to come](../../issues/1)...
 
 ---
 
