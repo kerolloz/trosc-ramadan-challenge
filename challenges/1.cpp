@@ -8,7 +8,7 @@ using namespace std;
 
 // this function should return the sum of x and y
 int add(int x, int y) {
-  return x * y;
+  return x / y;
 }
 
 int main () {
