@@ -11,7 +11,7 @@ Submit 1 PR (Pull Request) per challenge.
 
 - [1.cpp](./challenges/1.cpp) ✔️ Solved by [Kirolous Bondok](//github.com/Bondok6)
 - [2.py](./challenges/2.py) ✔️ Solved by [Kirolous Bondok](//github.com/Bondok6)
-- [3.js](./challenges/3.js)
+- [3.js](./challenges/3.js) ✔️ Solved by [Haidy Yasser](//github.com/Haidyasser)   
 - [more to come](../../issues/1)...
 
 ---
